@@ -9,6 +9,7 @@
 #img-caption {
   padding: 15px;
   font-size: 17.6;
+  text-align: center;
 }
 
 body {
@@ -22,10 +23,6 @@ body {
 p {
   text-align: center;
   font-size: 17.6;
-}
-
-#img-caption {
-  text-align: center;
 }
 
 ul {
@@ -43,10 +40,10 @@ h3 {
   text-align: center;
 }
 
-#img-div {
-}
-
 #wise {
   font-family: Brush Script MT, cursive;
   font-size: 22.6px;
+}
+#link {
+  text-align: center;
 }
