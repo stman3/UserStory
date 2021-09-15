@@ -4,16 +4,15 @@
   height: auto;
   max-height: 50%;
   margin: 0 auto;
-}
-#image {
-  padding: 20px;
+  box-shadow: 5px 5px 5px 5px gray;
 }
 #img-caption {
-  padding-bottom: 10px;
+  padding: 15px;
+  font-size: 17.6;
 }
 
 body {
-  background-color: azure;
+  background: linear-gradient(45deg, wheat, white, wheat);
 }
 
 #title {
@@ -22,6 +21,7 @@ body {
 
 p {
   text-align: center;
+  font-size: 17.6;
 }
 
 #img-caption {
@@ -44,5 +44,9 @@ h3 {
 }
 
 #img-div {
-  background: white;
+}
+
+#wise {
+  font-family: Brush Script MT, cursive;
+  font-size: 22.6px;
 }
